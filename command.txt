@@ -1,0 +1,10 @@
+git init
+git config --global user.name "virajvidhate3191-oss"
+git config --global user.email "virajvidhate3191@gmail.com"
+git branch
+git config --list
+git add .
+git commit -m "Sample"
+git status
+git switch main
+git push origin main
